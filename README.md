@@ -1,4 +1,4 @@
-##File Overview
+## File Overview
 
 `eyekart.py` - The primary file that runs the calibration sequence and opens the Unity karting game
 
@@ -14,6 +14,6 @@
 `EyeKart` - The standalone Unity app, built for MacOS
 
 
-##How to Run
+## How to Run
 
 I am using Python 3.7, and in order to run the python code you need to have all of the imported packages installed. The Unity program is also built for MacOS, so you must have MacOS installed. I don't believe it is version specific, but I have Catalina installed in case the game is throwing errors.
